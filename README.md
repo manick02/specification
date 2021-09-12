@@ -13,7 +13,7 @@ This project is composed of:
 
 * [Specification](specification.md) for defining DSL-based workflows
 * [Developer SDKs](#sdks) for different programming languages
-* [Workflow runtimes](#runtime) supporting the specification
+* [Workflow runtimes](#runtimes) supporting the specification
 * Developer [tooling support](#tooling) for writing DSL-based workflows
 
 CNCF Serverless Workflow is hosted by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) and was approved as a 
@@ -24,7 +24,7 @@ Cloud Native Sandbox level project on July 14, 2020.
 - [CNCF Landscape](#CNCF-Landscape)
 - [Releases](#Releases)
 - [SDKs](#SDKs)
-- [Runtime](#Runtime)
+- [Runtimes](#Runtimes)
 - [Tooling](#Tooling)
 - [Community](#Community)
     - [Communication](#Communication)
@@ -60,7 +60,7 @@ Check out our project DevStats [here](https://serverlessworkflow.devstats.cncf.i
 | [TypeScript SDK](https://github.com/serverlessworkflow/sdk-typescript) | [v2.0.0](https://github.com/serverlessworkflow/sdk-typescript/releases) | [2.0.x](https://github.com/serverlessworkflow/sdk-typescript/tree/2.0.x) | [main](https://github.com/serverlessworkflow/sdk-typescript) |
 | [VSCode Extension](https://github.com/serverlessworkflow/vscode-extension) | [1.6.0](https://marketplace.visualstudio.com/items?itemName=serverlessworkflow.serverless-workflow-vscode-extension) | | [main](https://github.com/serverlessworkflow/vscode-extension) |
 
-## Runtime
+## Runtimes
 
 - [Synapse](https://github.com/serverlessworkflow/synapse)
 
